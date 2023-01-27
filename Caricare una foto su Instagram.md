@@ -4,35 +4,30 @@ Durante le vacanze ho fatto mille mila foto, ora come faccio a scegliere quella 
 
 
 SCEGLIERE FOTO 
-- Prendo il cellulare, apro app gallery 
+    -Prendo il cellulare, apro app gallery 
+    -Scorro foto 
+    -Seleziono foto 
+    -PER OGNI FOTO della vacanza 
 
--Scorro foto 
+        -SE ci sono paesaggi le tengo
 
--Seleziono foto 
+            -SE sono sfocate
+                le scarto
 
--PER OGNI FOTO della vacanza 
-
-    -SE ci sono paesaggi le tengo
-
-        -SE sono sfocate
-              le scarto
-
-    -:ALTRIMENTI 
-        le scarto 
-
-
+        -:ALTRIMENTI 
+            le scarto 
 APRIRE IG
-  -Premo pulsante per caricare foto 
-  -Seleziono foto:                                     
-      -PER OGNI foto selezionata 
-          -Carico foto
-          - Scelgo filtro 
+    -Premo pulsante per caricare foto 
+    -Seleziono foto:                                     
+        -PER OGNI foto selezionata 
+            -Carico foto
+            - Scelgo filtro 
 
-      -SE mi piace, 
-          -scrivo la didascalia e metto hashtag
+        -SE mi piace, 
+            -scrivo la didascalia e metto hashtag
 
-      -:ALTRIMENTI 
-          -cambio filtro 
+        -:ALTRIMENTI 
+            -cambio filtro 
 
 POSTO FOTO
     -Aggiungo/scelgo località
